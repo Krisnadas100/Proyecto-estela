@@ -1,0 +1,38 @@
+body {
+    background-image: url(treintaicinco35.jpg);
+    background-size:150%;
+    background-repeat: no-repeat; background-attachment: scroll; background-color: rgb(255, 204, 255);
+    font-family: "Trirong", serif;
+    color: #f2f2f2fd;
+    font-size: 20px;}
+
+.container {
+    background-color: rgba(255,255,255,0,15);
+    border: solid 1px rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(20px);
+    width: 50%;
+    margin: auto;
+    border: blur(20px);
+    border-radius: 20px;
+}
+
+.nav-brand {
+    width: 70px;
+}
+.nav-main {
+    font-size: 17px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding: 20px 0;
+}
+
+
+.home{
+    
+    min-width: 700px;
+  display: flex;
+  justify-content: space-around;
+  
+}
